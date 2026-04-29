@@ -1,4 +1,7 @@
-ACPs实训营代码仓库 本仓库为【ACPs智能体互联网实训营】的个人代码提交仓库。 报名者：朱宏伟 实训方向：智能体互联网 / ACPs（Agent Communication Protocols）
+ACPs实训营代码仓库 
+本仓库为【ACPs智能体互联网实训营】的个人代码提交仓库。
+报名者：朱宏伟 
+实训方向：智能体互联网 / ACPs（Agent Communication Protocols）
 
 代码文件说明
 文件名：weather_tool.py 用途：命令行天气查询工具 技术点：HTTP请求、JSON解析、异常处理 |
